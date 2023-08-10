@@ -1,0 +1,3 @@
+Week 5 Day 3 Sequelize Intro Lab
+
+In this lab, I utilized Sequelize to build an admin app for Clark County Construction. The setup involved downloading exercise materials, installing dependencies with npm, and configuring environment variables using dotenv. I implemented Sequelize to interact with the 'sequelize-intro' database, performed joins to retrieve client information and appointment details, and enabled functionality to approve and mark appointments as completed. The result is a functional admin interface that efficiently manages client data and appointment statuses.
